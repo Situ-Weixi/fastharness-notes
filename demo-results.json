@@ -1,0 +1,98 @@
+[
+  {
+    "mode": "baseline",
+    "episode": 1,
+    "teacher_calls": 37,
+    "chunks": 36,
+    "automatic_chunks": 0,
+    "native_success": true
+  },
+  {
+    "mode": "baseline",
+    "episode": 2,
+    "teacher_calls": 37,
+    "chunks": 36,
+    "automatic_chunks": 0,
+    "native_success": true
+  },
+  {
+    "mode": "baseline",
+    "episode": 3,
+    "teacher_calls": 37,
+    "chunks": 36,
+    "automatic_chunks": 0,
+    "native_success": true
+  },
+  {
+    "mode": "baseline",
+    "episode": 4,
+    "teacher_calls": 37,
+    "chunks": 36,
+    "automatic_chunks": 0,
+    "native_success": true
+  },
+  {
+    "mode": "baseline",
+    "episode": 5,
+    "teacher_calls": 37,
+    "chunks": 36,
+    "automatic_chunks": 0,
+    "native_success": true
+  },
+  {
+    "mode": "baseline",
+    "episode": 6,
+    "teacher_calls": 37,
+    "chunks": 36,
+    "automatic_chunks": 0,
+    "native_success": true
+  },
+  {
+    "mode": "adaptive",
+    "episode": 1,
+    "teacher_calls": 26,
+    "chunks": 36,
+    "automatic_chunks": 11,
+    "native_success": true
+  },
+  {
+    "mode": "adaptive",
+    "episode": 2,
+    "teacher_calls": 15,
+    "chunks": 36,
+    "automatic_chunks": 22,
+    "native_success": true
+  },
+  {
+    "mode": "adaptive",
+    "episode": 3,
+    "teacher_calls": 14,
+    "chunks": 36,
+    "automatic_chunks": 23,
+    "native_success": true
+  },
+  {
+    "mode": "adaptive",
+    "episode": 4,
+    "teacher_calls": 11,
+    "chunks": 36,
+    "automatic_chunks": 26,
+    "native_success": true
+  },
+  {
+    "mode": "adaptive",
+    "episode": 5,
+    "teacher_calls": 13,
+    "chunks": 36,
+    "automatic_chunks": 24,
+    "native_success": true
+  },
+  {
+    "mode": "adaptive",
+    "episode": 6,
+    "teacher_calls": 12,
+    "chunks": 36,
+    "automatic_chunks": 25,
+    "native_success": true
+  }
+]
